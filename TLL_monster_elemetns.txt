@@ -3,7 +3,6 @@ monster_tweedle_adult/a
 monster_toejammer_adult/d
 monster_flootfly_adult/y
 
-monster_dancer/a,b,d,v
 monster_dandidoo_adult/a,b
 monster_oaktopus_adult/b,d
 monster_quibble_adult/a,d
