@@ -1,2 +1,5 @@
 loading https://github.com/HollowedOutMods/oldtll/blob/main/Loading_release3.png?raw=true
 en https://github.com/HollowedOutMods/oldtll/raw/main/en.txt
+nl https://github.com/HollowedOutMods/oldtll/raw/main/en.txt
+pt https://github.com/HollowedOutMods/oldtll/raw/main/en.txt
+ru-non https://github.com/HollowedOutMods/oldtll/raw/main/en.txt
