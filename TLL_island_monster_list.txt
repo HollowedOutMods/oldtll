@@ -1,0 +1,5 @@
+EM;Frondley,Potbelly,Flootfly,Tweedle,Toejammer,Yaga,Dandidoo,Quibble,Spunge,Dancer,Kikimora,Vodyanoy,Bannik,Leshy,Likho,Coral,Maulch,Oaktopus,Bass,Phangler
+city;Jeeode,Yool,Fluoress,Flootfly,Theremind,Osstax,Brump,Oaktopus,Clackula
+Knottsurr;Stone1,Stone2,Stone3,Stone4,Stone5,Stone6,Stone7,Stone8
+Candy;Gumtropm,Keytrus,Koodahcane,Marshflamo,Choccosour,Jawbreaker,Claramel,Cakehorn,Noggin,Toejammer,Kayna,Jamboree,Thrumble,Stogg,Phangler,Fwog
+Mount;Sneyzer,Sneyzer,Sneyzer,Sneyzer,Sneyzer,Sneyzer,Sneyzer,Sneyzer,Sneyzer,Sneyzer,Sneyzer,Sneyzer,Sneyzer,Sneyzer,Sneyzer,Sneyzer,Sneyzer,Sneyzer,Sneyzer,Sneyzer,Sneyzer,Sneyzer,Sneyzer,Sneyzer,Sneyzer
