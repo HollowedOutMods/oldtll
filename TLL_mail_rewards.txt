@@ -4,9 +4,13 @@ reward@url@https://media.discordapp.net/attachments/924689848911142932/927640666
 
 reward@img@easter;everyone;custom@Happy Late Easter@Thanks for bearing with us!@Allo there everyone! Happy VERY LATE Easter! We hope that the long wait for content hasnt been terrible. We're working on getting the game over to 2D to make mobile work right. For now though, take these little gifts: thank you all so much for playing MSM:TLL!;diamonds=25/add,food=2500/add,coins=5000/add,monster=monster_bannik*lvl=5*sublvl=0*name=Happy Easter*costume=costume_1*statue=false*savedeggs=*island=EM
 
-reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_likho_adult_special*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;nbvcxa
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_spunge_adult*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;zczxcas
 
-reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_bannik_adult*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;3ads
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_likho_adult_special*lvl=3*sublvl=0*name=Berry*costume=*statue=false*savedeggs=*island=EM;nbvc
+
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_likho_adult_special*lvl=3*sublvl=0*name=Berry*costume=a0*statue=false*savedeggs=*island=EM;nbvcxa
+
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_bannik_adult*lvl=3*sublvl=0*name=Berry*costume=costume_2*statue=false*savedeggs=*island=EM;3ads
 
 reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_bannik_adult*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;vadsa
 
