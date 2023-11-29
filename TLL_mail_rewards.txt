@@ -4,6 +4,16 @@ reward@url@https://media.discordapp.net/attachments/924689848911142932/927640666
 
 reward@img@easter;everyone;custom@Happy Late Easter@Thanks for bearing with us!@Allo there everyone! Happy VERY LATE Easter! We hope that the long wait for content hasnt been terrible. We're working on getting the game over to 2D to make mobile work right. For now though, take these little gifts: thank you all so much for playing MSM:TLL!;diamonds=25/add,food=2500/add,coins=5000/add,monster=monster_bannik*lvl=5*sublvl=0*name=Happy Easter*costume=costume_1*statue=false*savedeggs=*island=EM
 
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_likho_adult_special*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;nbvcxa
+
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_bannik_adult*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;3ads
+
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_bannik_adult*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;vadsa
+
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_flootfly_adult*lvl=3*sublvl=0*name=Berry*costume=costume_2*statue=false*savedeggs=*island=EM;awdasd
+
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_flootfly_adult*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;aweasd
+
 reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;diamonds=25/add;12277
 
 reward@img@giftbox;everyone;custom@Contest Reward!@Congrats on winning the contest!.@Contest Reward!;diamonds=15/add;artcontest1
@@ -39,14 +49,14 @@ reward@img@giftbox;1X9vZCrR1C4kxVmTDCC9X3j4G6yXN3fM;custom@For MSMPokeGamer@Than
 
 clear@img@clear;everyone;finalclear1
 
-reward@url@https://media.discordapp.net/attachments/730110993375428649/938945367490322523/unknown.png;gAbI9SVoBjAhEYA3;custom@Breeding Structure@Incoming!@Missing a breeding structure? Not anymore!;monster=monster_frondley_adult*lvl=1*sublvl=0*name=dad*costume=a0*statue=false*savedeggs=*island=EM;26253sddd
+reward@url@https://media.discordapp.net/attachments/730110993375428649/938945367490322523/unknown.png;everyone;custom@Breeding Structure@Incoming!@Missing a breeding structure? Not anymore!;monster=monster_frondley_adult*lvl=1*sublvl=0*name=dad*costume=a0*statue=false*savedeggs=*island=EM;26253sddd
 
-clear@img@clear;VIjnYzpfz04DZIzRKZ9MfWklOLza2oWb6;clearsendinguser_discord_1
+clear@img@clear;everyone;clearsendinguser_discord_1
 
-clear@img@giftbox;VeyMEfueph;41832
+clear@img@giftbox;everyone;41832
 
-message@url@https://cdn.discordapp.com/attachments/924689848911142932/927640666295648296/funne.png;RcwnjDxqDowcUGZm;custom@Breeding Structure@Please Read@Allo there- You said you couldnt find breeding structure? Its in the market, under structures. If theres nothing there I can send you one through the mail. -Azu;10073
+message@url@https://cdn.discordapp.com/attachments/924689848911142932/927640666295648296/funne.png;everyone;custom@Breeding Structure@Please Read@Allo there- You said you couldnt find breeding structure? Its in the market, under structures. If theres nothing there I can send you one through the mail. -Azu;10073
 
-clear@img@giftbox;uu3ij18boKMf4OGozLujvF36AP6ElD;6789
+clear@img@giftbox;everyone;6789
 
 
