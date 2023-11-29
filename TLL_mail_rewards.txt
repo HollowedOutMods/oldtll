@@ -4,6 +4,49 @@ reward@url@https://media.discordapp.net/attachments/924689848911142932/927640666
 
 reward@img@easter;everyone;custom@Happy Late Easter@Thanks for bearing with us!@Allo there everyone! Happy VERY LATE Easter! We hope that the long wait for content hasnt been terrible. We're working on getting the game over to 2D to make mobile work right. For now though, take these little gifts: thank you all so much for playing MSM:TLL!;diamonds=25/add,food=2500/add,coins=5000/add,monster=monster_bannik*lvl=5*sublvl=0*name=Happy Easter*costume=costume_1*statue=false*savedeggs=*island=EM
 
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=undof_monster_spamton*lvl=3*sublvl=0*name=Berry*costume=*statue=false*savedeggs=*island=EM;aczc12312adasd3dsadcczxcv1234
+
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=undof_monster_fwog*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;aczc123123cczxcv1234
+
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=undof_monster_phangler*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;aczccczxcv1234
+
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=undof_monster_jamboree*lvl=3*sublvl=0*name=Berry*costume=costume_2*statue=false*savedeggs=*island=EM;aczccczxcv
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=undof_monster_jamboree*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;aczczxcnesxad
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=undof_monster_toejammer*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;aczczxcneasd
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=undof_monster_noggin*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;aczczxcnbbbb
+
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_stone_2*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;azsadzxczxcas
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monsterRare_leshy_adult*lvl=3*sublvl=0*name=Berry*costume=*statue=false*savedeggs=*island=EM;azxczsdxcas
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_leshy_adult*lvl=3*sublvl=0*name=Berry*costume=costume_2*statue=false*savedeggs=*island=EM;azxczxcas
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_leshy_adult*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;azxcasd
+
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_likho_adult*lvl=3*sublvl=0*name=Berry*costume=costume_2*statue=false*savedeggs=*island=EM;azwedawsad1s
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_likho_adult*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;azwedawsad
+
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_vodyanoy_adult*lvl=3*sublvl=0*name=Berry*costume=costume_2*statue=false*savedeggs=*island=EM;adaszcd
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_vodyanoy_adult*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;zczxcasp
+
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_yaga_adult*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;zczxcas123mm23
+
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_frondley_adult*lvl=3*sublvl=0*name=Berry*costume=costume_4*statue=false*savedeggs=*island=EM;zczxcas123654123
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_frondley_adult*lvl=3*sublvl=0*name=Berry*costume=costume_3*statue=false*savedeggs=*island=EM;zczxcas123654112323
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_frondley_adult*lvl=3*sublvl=0*name=Berry*costume=costume_2*statue=false*savedeggs=*island=EM;zczxcas12365411233323
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_frondley_adult*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;zczxcas123654123
+
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_kikimora_adult*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;zczxcas654123
+
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_quibble_adult*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;zczxcas6545
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_oaktopus_adult*lvl=3*sublvl=0*name=Berry*costume=costume_2*statue=false*savedeggs=*island=EM;zczxcas6654
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_oaktopus_adult*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;zczxcas654
+
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_dandidoo_adult*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;zczxcas65
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_toejammer_adult*lvl=3*sublvl=0*name=Berry*costume=costume_3*statue=false*savedeggs=*island=EM;zczxcaseeee
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_toejammer_adult*lvl=3*sublvl=0*name=Berry*costume=costume_2*statue=false*savedeggs=*island=EM;zczxcaseee
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_toejammer_adult*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;zczxcasee1
+
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_potbelly_adult*lvl=3*sublvl=0*name=Berry*costume=costume_2*statue=false*savedeggs=*island=EM;zczxcasee
+reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_potbelly_adult*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;zczxcase
+
 reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_spunge_adult*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;zczxcas
 
 reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_likho_adult_special*lvl=3*sublvl=0*name=Berry*costume=*statue=false*savedeggs=*island=EM;nbvc
@@ -24,21 +67,21 @@ reward@img@giftbox;everyone;custom@Contest Reward!@Congrats on winning the conte
 
 reward@img@giftbox;everyone;custom@Gift for you!@Thanks for playing!@Here's your giveaway gift!;monster=monster_flootfly_adult*lvl=3*sublvl=0*name=Berry*costume=costume_1*statue=false*savedeggs=*island=EM;186083
 
-reward@img@easter;everyone;custom@Heheheha@farf!@hohohohohoohohohohohohohohoohoh;diamonds=250/add,food=2500/add,coins=5000/add,monster=Stone8*lvl=5*sublvl=0*name=HappyEaster*costume=a0*statue=false*savedeggs=*island=EM;wem0s
+reward@img@easter;everyone;custom@Heheheha@farf!@hohohohohoohohohohohohohohoohoh;diamonds=250/add,food=2500/add,coins=5000/add,monster=monster_stone_8*lvl=5*sublvl=0*name=HappyEaster*costume=a0*statue=false*savedeggs=*island=EM;wem0s
 
-reward@img@easter;everyone;custom@Heheheha@farf!@hohohohohoohohohohohohohohoohoh;diamonds=250/add,food=2500/add,coins=5000/add,monster=Stone7*lvl=5*sublvl=0*name=HappyEaster*costume=a0*statue=false*savedeggs=*island=EM;dawdsax
+reward@img@easter;everyone;custom@Heheheha@farf!@hohohohohoohohohohohohohohoohoh;diamonds=250/add,food=2500/add,coins=5000/add,monster=monster_stone_7*lvl=5*sublvl=0*name=HappyEaster*costume=a0*statue=false*savedeggs=*island=EM;dawdsax
 
-reward@img@easter;everyone;custom@Heheheha@farf!@hohohohohoohohohohohohohohoohoh;diamonds=250/add,food=2500/add,coins=5000/add,monster=Stone6*lvl=5*sublvl=0*name=HappyEaster*costume=a0*statue=false*savedeggs=*island=EM;sadzc34
+reward@img@easter;everyone;custom@Heheheha@farf!@hohohohohoohohohohohohohohoohoh;diamonds=250/add,food=2500/add,coins=5000/add,monster=monster_stone_6*lvl=5*sublvl=0*name=HappyEaster*costume=a0*statue=false*savedeggs=*island=EM;sadzc34
 
-reward@img@easter;everyone;custom@Heheheha@farf!@hohohohohoohohohohohohohohoohoh;diamonds=250/add,food=2500/add,coins=5000/add,monster=Stone5*lvl=5*sublvl=0*name=HappyEaster*costume=a0*statue=false*savedeggs=*island=EM;5j12e12312sk
+reward@img@easter;everyone;custom@Heheheha@farf!@hohohohohoohohohohohohohohoohoh;diamonds=250/add,food=2500/add,coins=5000/add,monster=monster_stone_5*lvl=5*sublvl=0*name=HappyEaster*costume=a0*statue=false*savedeggs=*island=EM;5j12e12312sk
 
-reward@img@easter;everyone;custom@Heheheha@farf!@hohohohohoohohohohohohohohoohoh;diamonds=250/add,food=2500/add,coins=5000/add,monster=Stone4*lvl=5*sublvl=0*name=HappyEaster*costume=a0*statue=false*savedeggs=*island=EM;5j12ek
+reward@img@easter;everyone;custom@Heheheha@farf!@hohohohohoohohohohohohohohoohoh;diamonds=250/add,food=2500/add,coins=5000/add,monster=monster_stone_4*lvl=5*sublvl=0*name=HappyEaster*costume=a0*statue=false*savedeggs=*island=EM;5j12ek
 
-reward@img@easter;everyone;custom@Heheheha@farf!@hohohohohoohohohohohohohohoohoh;diamonds=250/add,food=2500/add,coins=5000/add,monster=Stone3*lvl=5*sublvl=0*name=HappyEaster*costume=a0*statue=false*savedeggs=*island=EM;5j12ek
+reward@img@easter;everyone;custom@Heheheha@farf!@hohohohohoohohohohohohohohoohoh;diamonds=250/add,food=2500/add,coins=5000/add,monster=monster_stone_3*lvl=5*sublvl=0*name=HappyEaster*costume=a0*statue=false*savedeggs=*island=EM;5j12ek
 
-reward@img@easter;everyone;custom@Heheheha@farf!@hohohohohoohohohohohohohohoohoh;diamonds=250/add,food=2500/add,coins=5000/add,monster=Stone2*lvl=5*sublvl=0*name=HappyEaster*costume=a0*statue=false*savedeggs=*island=EM;5jb12e123
+reward@img@easter;everyone;custom@Heheheha@farf!@hohohohohoohohohohohohohohoohoh;diamonds=250/add,food=2500/add,coins=5000/add,monster=monster_stone_2*lvl=5*sublvl=0*name=HappyEaster*costume=a0*statue=false*savedeggs=*island=EM;5jb12e123
 
-reward@img@easter;everyone;custom@Heheheha@farf!@hohohohohoohohohohohohohohoohoh;diamonds=250/add,food=2500/add,coins=5000/add,monster=Stone1*lvl=5*sublvl=0*name=HappyEaster*costume=a0*statue=false*savedeggs=*island=EM;5jb12e
+reward@img@easter;everyone;custom@Heheheha@farf!@hohohohohoohohohohohohohohoohoh;diamonds=250/add,food=2500/add,coins=5000/add,monster=monster_stone_1*lvl=5*sublvl=0*name=HappyEaster*costume=a0*statue=false*savedeggs=*island=EM;5jb12e
 
 reward@img@easter;everyone;custom@Heheheha@farf!@hohohohohoohohohohohohohohoohoh;diamonds=250/add,food=2500/add,coins=5000/add,monster=monster_maulch_adult*lvl=5*sublvl=0*name=HappyEaster*costume=a0*statue=false*savedeggs=*island=EM;1adqe
 
